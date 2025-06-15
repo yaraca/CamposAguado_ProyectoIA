@@ -1,0 +1,4 @@
+langchain #sirve para usar langchain con ollama
+langchain-ollama
+ollama
+
