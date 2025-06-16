@@ -28,6 +28,7 @@ Este chatbot usa **LLaMA 3 (via Ollama)**, está construido con **Langchain** y 
 ├── info.py               # Contexto y datos del negocio para alimentar al modelo
 ├── requirements.txt      # Dependencias del proyecto
 ├── logo.png              # Imagen/logo de ALPAX para el frontend
+├── Captura_Diseño.png    # Imagen del diseño del chatbot
 └── README.md             # Este archivo
 ```
 
