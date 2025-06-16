@@ -101,7 +101,8 @@ El chatbot estará disponible en tu navegador en `http://localhost:8501`
 
 ## 🎨 Captura del diseño
 
-> ![Diseño ChatBot](Captura_Diseño.png)
+![Diseño ChatBot](Captura_Diseño.png)
+
 
 ------------------------------------------------------------------------
 
