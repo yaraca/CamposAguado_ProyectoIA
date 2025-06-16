@@ -6,7 +6,7 @@ from info import info
 #COnfiguación general de la página
 st.set_page_config(
     page_title="ALPAX Productos Naturales Chatbot",
-    page_icon=":herb:",
+    page_icon="🌿",
     layout="wide",
     initial_sidebar_state="expanded"
 )
