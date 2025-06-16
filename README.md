@@ -101,7 +101,7 @@ El chatbot estará disponible en tu navegador en `http://localhost:8501`
 
 ## 🎨 Captura del diseño
 
-> *![Descripción alternativa](C:\Users\yarac\OneDrive\Documentos\GitHub\CamposAguado_ProyectoIA\Captura_Diseño.png)*
+> ![Diseño ChatBot](C:\Users\yarac\OneDrive\Documentos\GitHub\CamposAguado_ProyectoIA\Captura_Diseño.png)
 
 ------------------------------------------------------------------------
 
