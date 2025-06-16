@@ -32,7 +32,7 @@ def chat():
 
         result = chain.invoke({"info":info, "context": context, "question": question})
         print("Bot:", result)
-        context += f"Bot: {result}\nYou: {question}\n"
+        context += f"Bot: {result}\nTú: {question}\n"
 
 
 if __name__ == "__main__":
