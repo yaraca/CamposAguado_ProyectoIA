@@ -1,6 +1,6 @@
 # CamposAguado_ProyectoIA
 
-# 🧠 ALPAX Chatbot - Asistente IA para Productos Naturales
+# 🧠 ALPAX Chatbot - Asistente IA para empresa
 
 Bienvenido al repositorio oficial del **Chatbot de ALPAX Productos Naturales**, un asistente inteligente diseñado para responder preguntas sobre nuestros suplementos alimenticios, servicios de maquila y líneas de productos.
 
